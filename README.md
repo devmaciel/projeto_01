@@ -13,7 +13,7 @@ Segue o exemplo na imagem a seguir:<br>
 
 
 ------------
-Recomendado deixar o projeto na pasta raiz da aplicação. onde não é necessário fazer nenhuma alteração na definição do caminho, porém você pode mudar no arquivo de **config.php**
+Recomendado deixar o projeto na pasta raiz da aplicação. Onde não será necessário fazer nenhuma alteração na definição do caminho, porém você pode mudar no arquivo de **config.php**
 [![](https://i.imgur.com/laShzSH.jpg)](https://i.imgur.com/laShzSH.jpg)
 
 ------------
