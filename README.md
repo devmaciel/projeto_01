@@ -63,7 +63,7 @@ Painel de Controle do Administrador.[![Painel de Controle do Administrador](http
 
 ##### Mais sobre o projeto
 
-Esse foi um projeto que fiz, visando um desafio maior, sem utilizar sistema MVC e frameworks, *(mais a frente vai sair projeto com laravel)*. E utilizando algumas técnicas, com HTML/CSS/JQUERY, responsividade, CrossBrowser Compatibility, Ajax, Onload Function*(carregamento dinâmico, com google maps)*. Painel Administrativo para edição de campos no website. Ressalto que fiz alguns shortcuts no projeto para ficar mais fácil a navegação para os *devs*. Então começe a explorar as funcionalidades e entenda você mesmo!
+Esse foi um projeto que fiz, visando um desafio maior, sem utilizar sistema MVC e frameworks, *(mais a frente vai sair projeto com laravel)* . E utilizando algumas técnicas, com HTML/CSS/JQUERY, responsividade, CrossBrowser Compatibility, Ajax, Onload Function*(carregamento dinâmico, com google maps)*. Painel Administrativo para edição de campos no website. Ressalto que fiz alguns shortcuts no projeto para ficar mais fácil a navegação para os *devs*. Então começe a explorar as funcionalidades e entenda você mesmo!
 
 ###### *Relato de bugs*
 *O Envio de email, é feito com contas testes de gmail, então pode ser bloqueado a autenticação de envio, assim bloqueando as mensagens de serem enviadas corretamente. Caso aconteça algum problema, sugiro conferir a classe de Email e seguir os passos contido lá dentro, podendo até mesmo você colocar um email sender/receiver e testando a funcionalidade, ou configurando smtp.*
