@@ -58,6 +58,7 @@ Painel de Controle do Administrador.[![Painel de Controle do Administrador](http
 - VSCode 
 - Sublime Text 3 
 - Xampp
+- GIT
 
 <br />
 
