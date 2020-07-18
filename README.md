@@ -1,6 +1,6 @@
 # .Projeto//0.1.
 ## Começando
-É necessário primeiramente instalar o [Composer](https://github.com/composer/composer "Composer") se você não tiver instalado anteriormente e descarregar o folder vendor.
+É necessário primeiramente instalar o [Composer](https://github.com/composer/composer "Composer") e descarregar o folder vendor.
 
 Logo após, instalar o [PHPMailer](https://github.com/PHPMailer/PHPMailer "PHPMailer") na pasta **classes** do projeto. <br>
 *obs: namespace em arquivos definido para esta pasta*
