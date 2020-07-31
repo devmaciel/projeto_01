@@ -44,12 +44,12 @@ Painel de Controle do Administrador.[![Painel de Controle do Administrador](http
 - HTML5
 - CSS3
 - Javascript
-- JQuery
 - PHP
 - MariaDB
 
 #### Ferramentas Utilizadas
 - Composer [Aqui](https://github.com/composer/composer "Aqui")
+- JQuery [Aqui](https://github.com/jquery/jquery "Aqui")
 - JQuery Mask [Aqui](https://github.com/igorescobar/jQuery-Mask-Plugin "Aqui")
 - JQuery Form [Aqui](https://github.com/jquery-form/form "Aqui")
 - TinyMCE [Aqui](https://github.com/tinymce/tinymce "Aqui")
